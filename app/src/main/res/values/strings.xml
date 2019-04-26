@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">java-final</string>
+    <string name="analyze_an_image">Analyze an Image</string>
+    <string name="image_with_faces_to_analyze">Image with faces to analyze</string>
+    <string name="select_a_face_image">Select a face image</string>
+    <string name="get_started">Get Started</string>
+    <string name="browse">BROWSE</string>
+    <string name="hold_up_your_phone_or_select_an_image_from_your_gallery_to_learn_more_about_peoples_expressions">Hold up your phone or select an image from your gallery to learn more about peoples expressions</string>
+    <string name="let_s_get_started">Let\'s get started</string>
+    <string name="phone_illustration">Phone Illustration</string>
+    <string name="intelligent_camera_app">Intelligent Camera App</string>
+</resources>
