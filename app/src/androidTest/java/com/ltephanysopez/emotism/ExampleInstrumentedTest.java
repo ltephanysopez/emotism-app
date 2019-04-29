@@ -1,4 +1,4 @@
-package com.ltephanysopez.java_final;
+package com.ltephanysopez.emotism;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

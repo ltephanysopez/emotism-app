@@ -9,4 +9,14 @@
     <string name="let_s_get_started">Let\'s get started</string>
     <string name="phone_illustration">Phone Illustration</string>
     <string name="intelligent_camera_app">Intelligent Camera App</string>
+    <string name="register_new_account">Register new account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="account_login">Account login</string>
+    <string name="emotism">emotism</string>
+    <string name="an_educational_application_to_teach_emotion_recognition_for_individuals_with_asd">An educational application to teach emotion recognition for individuals with ASD</string>
+    <string name="take_a_picture">Take a picture</string>
+    <string name="select_an_image">Select an image</string>
 </resources>

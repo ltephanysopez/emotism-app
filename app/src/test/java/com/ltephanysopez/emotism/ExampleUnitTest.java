@@ -1,4 +1,4 @@
-package com.ltephanysopez.java_final;
+package com.ltephanysopez.emotism;
 
 import org.junit.Test;
 

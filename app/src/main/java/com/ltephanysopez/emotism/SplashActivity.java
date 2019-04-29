@@ -1,4 +1,4 @@
-package com.ltephanysopez.java_final;
+package com.ltephanysopez.emotism;
 
 import android.os.Bundle;
 import android.os.Handler;
@@ -23,7 +23,7 @@ public class SplashActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent i = new Intent(SplashActivity.this, MainActivity.class);
+                Intent i = new Intent(SplashActivity.this, WelcomeActivity.class);
                 startActivity(i);
                 finish();
             }

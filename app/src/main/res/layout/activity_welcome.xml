@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".WelcomeActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/welcome_gradient"
+    >
+
+
+    <Button
+        android:id="@+id/getStarted"
+        android:layout_width="228dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="127dp"
+        android:background="@drawable/btn_rounded_white"
+        android:fontFamily="@font/product_sans_regular"
+        android:text="@string/get_started"
+        android:textColor="@android:color/holo_blue_light"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="52dp"
+        android:layout_marginTop="244dp"
+        android:fontFamily="@font/product_sans_bold"
+        android:text="@string/emotism"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="65sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="264dp"
+        android:layout_height="139dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="53dp"
+        android:layout_marginBottom="272dp"
+        android:fontFamily="@font/product_sans_regular"
+        android:text="@string/an_educational_application_to_teach_emotion_recognition_for_individuals_with_asd"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="22sp" />
+
+</RelativeLayout>

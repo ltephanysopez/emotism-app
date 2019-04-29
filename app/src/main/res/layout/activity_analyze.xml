@@ -22,6 +22,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="56dp"
         android:layout_marginTop="440dp"
+        android:fontFamily="@font/product_sans_regular"
         android:textSize="14sp"
         tools:text="Result" />
 
@@ -31,8 +32,8 @@
         android:layout_height="265dp"
         android:layout_above="@+id/btnBrowseForImage"
         android:layout_alignParentStart="true"
-        android:layout_marginStart="74dp"
-        android:layout_marginBottom="187dp"
+        android:layout_marginStart="71dp"
+        android:layout_marginBottom="219dp"
         android:contentDescription="@string/image_with_faces_to_analyze" />
 
     <Button
@@ -42,12 +43,28 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
+        android:layout_marginStart="63dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="35dp"
+        android:background="@color/colorAccent"
+        android:fontFamily="@font/product_sans_regular"
+        android:text="@string/select_an_image"
+        android:textColor="@android:color/background_light"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnBrowseForCamera"
+        android:layout_width="261dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
         android:layout_marginStart="64dp"
         android:layout_marginEnd="59dp"
         android:layout_marginBottom="92dp"
-        android:background="@color/colorAccent"
+        android:background="@color/colorAccentTwo"
         android:fontFamily="@font/product_sans_regular"
-        android:text="@string/select_a_face_image"
+        android:text="@string/take_a_picture"
         android:textColor="@android:color/background_light"
         android:textStyle="bold" />
 

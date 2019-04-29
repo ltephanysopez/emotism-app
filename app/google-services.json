@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "347915908738",
+    "firebase_url": "https://emotism.firebaseio.com",
+    "project_id": "emotism",
+    "storage_bucket": "emotism.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347915908738:android:e8601905bb6dcea3",
+        "android_client_info": {
+          "package_name": "com.ltephanysopez.java_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347915908738-m3aens3rfqob10sraruvp7gthe9osd7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ltephanysopez.java_final",
+            "certificate_hash": "3b5d47d306da83a6a28b30d88c9d6b3b6323c3e8"
+          }
+        },
+        {
+          "client_id": "347915908738-4tvj7bovs1lthgje4ep79g9epg8h6n3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClTKKW1j4R1N0OOviXBcz7cuDbZKRTnhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347915908738-4tvj7bovs1lthgje4ep79g9epg8h6n3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

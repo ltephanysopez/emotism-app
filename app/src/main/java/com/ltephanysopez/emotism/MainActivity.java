@@ -1,4 +1,4 @@
-package com.ltephanysopez.java_final;
+package com.ltephanysopez.emotism;
 
 import android.app.*;
 import android.os.Bundle;
@@ -15,7 +15,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        button = (Button) findViewById(R.id.button2);
+        button = (Button) findViewById(R.id.getStarted);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
